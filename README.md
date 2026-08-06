@@ -51,6 +51,7 @@ Portfólio em evolução contínua. Novos projetos, melhorias visuais e atualiza
 **Rafael Correa**  
 Data Science · Data Engineering · Business Intelligence · Artificial Intelligence
 
+- Portfólio: <https://rafaelcsn-portfolio.vercel.app/>
 - GitHub: <https://github.com/RafaelCorrea160407>
 - Email: <mailto:rafaelcsn123@gmail.com>
 - Linkedin: <https://www.linkedin.com/in/rafaelcorreasoaresnogueira/?isSelfProfile=true>
